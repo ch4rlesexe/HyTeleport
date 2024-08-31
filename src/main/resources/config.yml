@@ -1,0 +1,11 @@
+warps:
+  warp1:
+    tp-location-x: -10
+    tp-location-y: 150
+    tp-location-z: 65
+    perms: hyteleport.warp1
+  warp2:
+    tp-location-x: 100
+    tp-location-y: 75
+    tp-location-z: -200
+    perms: hyteleport.warp2

@@ -1,0 +1,6 @@
+usage: "&aUsage: /hyteleport <player> <warpname>"
+player-not-found: "&cPlayer not found."
+warp-not-found: "&cWarp '%warp%' does not exist."
+no-permission: "&cYou don't have permission to use this warp."
+warp-success: "&aWarped to %warp% successfully!"
+reload-success: "&aHyTeleport configuration reloaded."

@@ -1,0 +1,8 @@
+name: HyTeleport
+version: 1.0
+main: org.charlie.hyTeleport.HyTeleport
+description: A plugin that allows dynamic teleportation warps.
+commands:
+  hyteleport:
+    description: Teleports a player to a specified warp location.
+    aliases: [hytp]
